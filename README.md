@@ -1,1 +1,1 @@
-# -vuepress-theme-sao
+# vuepress-theme-sao
